@@ -1,2 +1,2 @@
-# Market_sentiment_Analysis
-Market sentiment Analysis
+# Marketing_sentiment_Analysis
+Marketing sentiment Analysis
